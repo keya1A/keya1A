@@ -73,39 +73,6 @@
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
-
-<!-- ======================= FEATURED PROJECTS ======================= -->
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/keya1A/SecureScope">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keya1A&repo=SecureScope&theme=radical&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/keya1A/VECTORSCAN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keya1A&repo=VECTORSCAN&theme=radical&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/keya1A/HACKATHON---SMART-TRAVEL-APP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keya1A&repo=HACKATHON---SMART-TRAVEL-APP&theme=radical&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/keya1A/CST-DEPARTMENT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=keya1A&repo=CST-DEPARTMENT&theme=radical&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- ======================= SIH HACKATHON ======================= -->
 ## 🏆 Smart India Hackathon (SIH)
 
