@@ -10,7 +10,7 @@
 
 <!-- ======================= PORTFOLIO BUTTONS ======================= -->
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://keyas-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY-PORTFOLIO%20%E2%86%92-0072ff?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=00ff9c" alt="Portfolio" height="45"/>
   </a>
   &nbsp;
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" height="45"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/keya-s-cyberrr200">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45"/>
   </a>
 </p>
@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%8F%86%20SIH%20PROJECT-VIEW%20ON%20GITHUB%20%E2%86%92-FF9933?style=for-the-badge&labelColor=138808&logo=github&logoColor=white" alt="SIH Project" height="45"/>
   </a>
   &nbsp;
-  <a href="YOUR_SIH_LIVE_DEMO_OR_PPT_LINK">
+  <a href="https://peregrine25-demo-lac.vercel.app/">
     <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO%20%2F%20PPT-OPEN%20%E2%86%92-0072ff?style=for-the-badge&labelColor=0d1117" alt="SIH Demo" height="45"/>
   </a>
 </p>
