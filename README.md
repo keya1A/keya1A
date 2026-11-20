@@ -11,7 +11,7 @@
 <!-- ======================= PORTFOLIO BUTTONS ======================= -->
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO-00FF9C?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Portfolio" height="45"/>
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY-PORTFOLIO%20%E2%86%92-0072ff?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=00ff9c" alt="Portfolio" height="45"/>
   </a>
   &nbsp;
   <a href="https://hackerone.com/YOUR_H1_USERNAME">
@@ -106,6 +106,23 @@
 
 ---
 
+<!-- ======================= SIH HACKATHON ======================= -->
+## 🏆 Smart India Hackathon (SIH)
+
+<p align="center">
+  <a href="https://github.com/keya1A/HACKATHON---SMART-TRAVEL-APP">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20SIH%20PROJECT-VIEW%20ON%20GITHUB%20%E2%86%92-FF9933?style=for-the-badge&labelColor=138808&logo=github&logoColor=white" alt="SIH Project" height="45"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_SIH_LIVE_DEMO_OR_PPT_LINK">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO%20%2F%20PPT-OPEN%20%E2%86%92-0072ff?style=for-the-badge&labelColor=0d1117" alt="SIH Demo" height="45"/>
+  </a>
+</p>
+
+<p align="center"><i>Smart Travel App built with TypeScript for Smart India Hackathon 🇮🇳</i></p>
+
+---
+
 <!-- ======================= BUG BOUNTY ======================= -->
 ## 🐞 Bug Bounty Focus
 
@@ -144,7 +161,7 @@
 
 <!-- ======================= QUOTE ======================= -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=16&duration=4000&pause=2000&color=00FF9C&background=00000000&center=true&vCenter=true&width=900&height=50&lines=%22See%2C+you+not+only+have+to+be+a+good+coder+to+create+a+system+like+Linux%2C;you+have+to+be+a+sneaky+bastard+too+%3B-)%22+%E2%80%94+Linus+Torvalds" alt="Quote" />
 </p>
 
 <!-- ======================= FOOTER ======================= -->
